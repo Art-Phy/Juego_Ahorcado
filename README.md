@@ -1,18 +1,18 @@
 # Bienvenid@s a Tu Juego del Ahorcado.
 
-### Es un progama simple para practicar Python, para principiantes.
+#### Es un progama simple para practicar Python, para principiantes.
 
-### ¿Quién no ha jugado al Ahorcado?
-### Este programa es bastante simple si se hace sin interfaz, simplemente interactuando con la terminal
+#### ¿Quién no ha jugado al Ahorcado?
+#### Este programa es bastante simple si se hace sin interfaz, simplemente interactuando con la terminal
 
-### Con un par de funciones y bucles y lo tenemos listo
+#### Con un par de funciones y bucles y lo tenemos listo
 
-### Las palabras las indicáis al principio, así como el número de intentos que queráis que tenga la persona que vaya a jugar.
+#### Las palabras las indicáis al principio, así como el número de intentos que queráis que tenga la persona que vaya a jugar.
 
 > ##### Utilicé el módulo random para que sea el propio programa quien decida la palabra a jugar.
 > ##### import random
 
-## Qué he usado
+### Qué he usado
 
  - Visual Studio Code
  - Libro "Curso Intesivo de Python" de Eric Matthes
