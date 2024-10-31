@@ -10,6 +10,7 @@
 ### Las palabras las indicáis al principio, así como el número de intentos que queráis que tenga la persona que vaya a jugar.
 
 > ##### Utilicé el módulo random para que sea el propio programa quien decida la palabra a jugar.
+> ##### import random
 
 ## Qué he usado
 
