@@ -2,7 +2,7 @@
 
 ### Es un progama simple para practicar Python, para principiantes.
 
-### ¿Quién no ha jugado al Ahorcado?.
+### ¿Quién no ha jugado al Ahorcado?
 ### Este programa es bastante simple si se hace sin interfaz, simplemente interactuando con la terminal
 
 ### Con un par de funciones y bucles y lo tenemos listo
