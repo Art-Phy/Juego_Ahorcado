@@ -1,4 +1,4 @@
-# Bienvenid@s a Tu Juego del Ahorcado.
+## Bienvenid@s a Tu Juego del Ahorcado.
 
 #### Es un progama simple para practicar Python, para principiantes.
 
