@@ -1,4 +1,4 @@
-## Bienvenid@s a Tu Juego del Ahorcado.
+## Bienvenid@s a Tu Juego del Ahorcado
 
 #### Es un progama simple para practicar Python, para principiantes.
 
@@ -21,6 +21,7 @@
  - Documentación de GitHub [GitHub](https://docs.github.com/es)
  - Documentación Markdown [Markdown](https://markdown.es)
 
+----------------------------
 ### ¿Qué pretendo con esto?
 
 ##### Sencillamente nada, simplemente compartir mi día a día iniciándome en la programación, con Python en este caso. 
